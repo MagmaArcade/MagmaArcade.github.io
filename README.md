@@ -1,4 +1,3 @@
 # My Website
-------------------------------------------
 
-Link: MagmaArcade.github.io
+Link: https://MagmaArcade.github.io
