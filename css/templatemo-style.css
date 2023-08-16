@@ -391,11 +391,8 @@ footer .fp-tableCell
 	bottom: 0;
 }
 
-/**
- * responsive:
- * resume
- * ------------------------------------------------------------------- 
- */
+ /* -------------------------------------------------------------------  */
+
 @media only screen and (max-width:1024px) {
 	#resume .timeline-header {
 		padding-right: 50px;
