@@ -298,7 +298,10 @@ footer .fp-tableCell
 
 
 /* ========================== Experience Section ========================= */
-
+#experience
+    {
+        background: #1a1a1a;
+    }
 /* ========================== Education Section ========================= */
 
 
