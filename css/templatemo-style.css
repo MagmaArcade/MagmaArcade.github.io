@@ -169,7 +169,7 @@ footer .fp-tableCell
         padding-top: 120px;
         padding-bottom: 140px;
         text-align: center;
-	}
+	} /*
 #intro h1
     {
         border: 2px solid #D43F52;
@@ -182,7 +182,22 @@ footer .fp-tableCell
 #intro h2
     {
         padding-bottom: 10px;
-    }
+    } */
+	
+#intro h1 {
+	font-family: "poppins-semibold", serif;
+	font-size: 3.6rem;
+	color: #313131;
+	line-height: 1.25;
+	margin-bottom: 1.2rem;
+}
+#intro h5 {
+	color: #FF0077;
+	font-size: 1.6rem;
+	line-height: 1.875;
+	margin-bottom: 0.3rem;
+	letter-spacing: .4rem;
+}
 #intro .btn
     {
         background: transparent;
