@@ -298,12 +298,14 @@ footer .fp-tableCell
 
 
 /* ========================== Experience Section ========================= */
+
 #experience
     {
         background: #1a1a1a;
     }
-/* ========================== Education Section ========================= */
-
+	
+	
+/* ========================== Timeline Section ========================= */
 
 #resume {
 	padding-top: 12rem;
@@ -391,7 +393,7 @@ footer .fp-tableCell
 	bottom: 0;
 }
 
- /* -------------------------------------------------------------------  */
+ /* -------------------------------------------------------------------  
 
 @media only screen and (max-width:1024px) {
 	#resume .timeline-header {
@@ -462,7 +464,7 @@ footer .fp-tableCell
 	#resume .timeline-header, #resume .timeline-content {
 		padding-left: 5.5rem;
 	}
-}
+}*/
 
 /* ========================== Portfolio Section ========================= */
 
