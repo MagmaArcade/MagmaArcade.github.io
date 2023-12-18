@@ -1,0 +1,3 @@
+larger images 600 x 400
+small images 450 x 300
+
